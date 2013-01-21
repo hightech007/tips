@@ -7,7 +7,7 @@ header("Content-type: text/html"); ?>
 <?php
 $str = $_GET['akcija']; 
 
-// control switch - route-x
+// control switch - route-x :: kontrolni prekidac - put x
 
 switch ($str) {
     case 'tip1':
